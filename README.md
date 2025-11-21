@@ -122,6 +122,7 @@ This project showcases:
 ##  Author
 
 **Namburi Lakshmi Surya Prakash**
+
 *Data Analysis with MySQL – Innomatics Research Labs (2025)*
 
 ---
